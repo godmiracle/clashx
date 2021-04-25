@@ -21,6 +21,7 @@ payload:
   - '+.totheglory.im'
   - '+.dmhy.org'
   - '+.u2.dmhy.org'
+  - '+.dmhy.org'
   - '+.et8.org'
   - '+.hdhome.org'
   - '+.dicmusic.club'
