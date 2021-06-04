@@ -28,3 +28,4 @@ payload:
   - '+.www.skyey2.com'
   - '+.www.torrentleech.org'
   - '+.exoticaz.to'
+  - '+.ourbits.club'
