@@ -1,5 +1,3 @@
 payload:
-  - '+.sehuatang.net'
-  - '+.qwewqerrewr.xyz'
   - '+.v2rayse.com'
   
