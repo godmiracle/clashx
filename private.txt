@@ -149,6 +149,6 @@ payload:
   - '+.torrentleech.org'
   - '+.exoticaz.to'
   - '+.ourbits.club'
+  - '202.61.255.24/22'
   - '+.202.61.255.248'
-  - '+.202.61.255.248/8096'
   - '+.xsus.me'
