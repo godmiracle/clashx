@@ -152,4 +152,6 @@ payload:
   - '+.ourbits.club'
   - '202.61.255.24/22'
   - '+.202.61.255.248'
-  - '+.xsus.me'
+  - '+.xsus.io'
+  - '+.1.mgl.gay'
+  - '+.2.mgl.gay'
