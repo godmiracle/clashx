@@ -144,6 +144,7 @@ payload:
   - '+.et8.org'
   - '+.hdhome.org'
   - '+.dicmusic.club'
+  - '+.52dic.vip'
   - '+.soulvoice.club'
   - '+.52pt.site'
   - '+.skyey2.com'
