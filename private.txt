@@ -154,5 +154,6 @@ payload:
   - '202.61.255.24/22'
   - '+.202.61.255.248'
   - '+.xsus.wiki'
-  - '+.1.mgl.gay'
-  - '+.2.mgl.gay'
+  - '+.mgl.gay'
+  - '+.misakaf.org'
+  - '+.emby.wtf'
