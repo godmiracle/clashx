@@ -151,6 +151,7 @@ payload:
   - '+.torrentleech.org'
   - '+.exoticaz.to'
   - '+.ourbits.club'
+  - '+.btschool.club'
   - '202.61.255.24/22'
   - '+.202.61.255.248'
   - '+.xsus.wiki'
